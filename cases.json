@@ -4,7 +4,7 @@
         "title": "Caso 001: Lead - Falha",
         "initialState": "lead",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de lead. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de lead. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_001_lead_falha.md"
     },
     {
@@ -12,7 +12,7 @@
         "title": "Caso 002: Qualificacao - Refatoracao",
         "initialState": "qualificacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em qualificacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em qualificacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_002_qualificacao_refatoracao.md"
     },
     {
@@ -20,7 +20,7 @@
         "title": "Caso 003: Oportunidade - Delayed",
         "initialState": "oportunidade",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em oportunidade. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em oportunidade. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_003_oportunidade_delayed.md"
     },
     {
@@ -28,7 +28,7 @@
         "title": "Caso 004: Designacao - Sucesso",
         "initialState": "designacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de designacao para conclusao sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de designacao para conclusao sem intercorr\u00eancias.",
         "filename": "case_004_designacao_sucesso.md"
     },
     {
@@ -36,7 +36,7 @@
         "title": "Caso 005: Conclusao - Falha",
         "initialState": "conclusao",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de conclusao. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de conclusao. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_005_conclusao_falha.md"
     },
     {
@@ -44,7 +44,7 @@
         "title": "Caso 006: Draft - Refatoracao",
         "initialState": "draft",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em draft. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em draft. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_006_draft_refatoracao.md"
     },
     {
@@ -52,7 +52,7 @@
         "title": "Caso 007: Lead - Delayed",
         "initialState": "lead",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em lead. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em lead. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_007_lead_delayed.md"
     },
     {
@@ -60,7 +60,7 @@
         "title": "Caso 008: Qualificacao - Sucesso",
         "initialState": "qualificacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de qualificacao para oportunidade sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de qualificacao para oportunidade sem intercorr\u00eancias.",
         "filename": "case_008_qualificacao_sucesso.md"
     },
     {
@@ -68,7 +68,7 @@
         "title": "Caso 009: Oportunidade - Falha",
         "initialState": "oportunidade",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de oportunidade. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de oportunidade. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_009_oportunidade_falha.md"
     },
     {
@@ -76,7 +76,7 @@
         "title": "Caso 010: Designacao - Refatoracao",
         "initialState": "designacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em designacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em designacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_010_designacao_refatoracao.md"
     },
     {
@@ -84,7 +84,7 @@
         "title": "Caso 011: Conclusao - Delayed",
         "initialState": "conclusao",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em conclusao. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em conclusao. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_011_conclusao_delayed.md"
     },
     {
@@ -92,7 +92,7 @@
         "title": "Caso 012: Draft - Sucesso",
         "initialState": "draft",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de draft para lead sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de draft para lead sem intercorr\u00eancias.",
         "filename": "case_012_draft_sucesso.md"
     },
     {
@@ -100,7 +100,7 @@
         "title": "Caso 013: Lead - Falha",
         "initialState": "lead",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de lead. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de lead. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_013_lead_falha.md"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Caso 014: Qualificacao - Refatoracao",
         "initialState": "qualificacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em qualificacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em qualificacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_014_qualificacao_refatoracao.md"
     },
     {
@@ -116,7 +116,7 @@
         "title": "Caso 015: Oportunidade - Delayed",
         "initialState": "oportunidade",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em oportunidade. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em oportunidade. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_015_oportunidade_delayed.md"
     },
     {
@@ -124,7 +124,7 @@
         "title": "Caso 016: Designacao - Sucesso",
         "initialState": "designacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de designacao para conclusao sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de designacao para conclusao sem intercorr\u00eancias.",
         "filename": "case_016_designacao_sucesso.md"
     },
     {
@@ -132,7 +132,7 @@
         "title": "Caso 017: Conclusao - Falha",
         "initialState": "conclusao",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de conclusao. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de conclusao. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_017_conclusao_falha.md"
     },
     {
@@ -140,7 +140,7 @@
         "title": "Caso 018: Draft - Refatoracao",
         "initialState": "draft",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em draft. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em draft. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_018_draft_refatoracao.md"
     },
     {
@@ -148,7 +148,7 @@
         "title": "Caso 019: Lead - Delayed",
         "initialState": "lead",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em lead. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em lead. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_019_lead_delayed.md"
     },
     {
@@ -156,7 +156,7 @@
         "title": "Caso 020: Qualificacao - Sucesso",
         "initialState": "qualificacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de qualificacao para oportunidade sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de qualificacao para oportunidade sem intercorr\u00eancias.",
         "filename": "case_020_qualificacao_sucesso.md"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Caso 021: Oportunidade - Falha",
         "initialState": "oportunidade",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de oportunidade. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de oportunidade. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_021_oportunidade_falha.md"
     },
     {
@@ -172,7 +172,7 @@
         "title": "Caso 022: Designacao - Refatoracao",
         "initialState": "designacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em designacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em designacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_022_designacao_refatoracao.md"
     },
     {
@@ -180,7 +180,7 @@
         "title": "Caso 023: Conclusao - Delayed",
         "initialState": "conclusao",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em conclusao. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em conclusao. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_023_conclusao_delayed.md"
     },
     {
@@ -188,7 +188,7 @@
         "title": "Caso 024: Draft - Sucesso",
         "initialState": "draft",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de draft para lead sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de draft para lead sem intercorr\u00eancias.",
         "filename": "case_024_draft_sucesso.md"
     },
     {
@@ -196,7 +196,7 @@
         "title": "Caso 025: Lead - Falha",
         "initialState": "lead",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de lead. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de lead. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_025_lead_falha.md"
     },
     {
@@ -204,7 +204,7 @@
         "title": "Caso 026: Qualificacao - Refatoracao",
         "initialState": "qualificacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em qualificacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em qualificacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_026_qualificacao_refatoracao.md"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Caso 027: Oportunidade - Delayed",
         "initialState": "oportunidade",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em oportunidade. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em oportunidade. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_027_oportunidade_delayed.md"
     },
     {
@@ -220,7 +220,7 @@
         "title": "Caso 028: Designacao - Sucesso",
         "initialState": "designacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de designacao para conclusao sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de designacao para conclusao sem intercorr\u00eancias.",
         "filename": "case_028_designacao_sucesso.md"
     },
     {
@@ -228,7 +228,7 @@
         "title": "Caso 029: Conclusao - Falha",
         "initialState": "conclusao",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de conclusao. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de conclusao. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_029_conclusao_falha.md"
     },
     {
@@ -236,7 +236,7 @@
         "title": "Caso 030: Draft - Refatoracao",
         "initialState": "draft",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em draft. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em draft. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_030_draft_refatoracao.md"
     },
     {
@@ -244,7 +244,7 @@
         "title": "Caso 031: Lead - Delayed",
         "initialState": "lead",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em lead. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em lead. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_031_lead_delayed.md"
     },
     {
@@ -252,7 +252,7 @@
         "title": "Caso 032: Qualificacao - Sucesso",
         "initialState": "qualificacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de qualificacao para oportunidade sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de qualificacao para oportunidade sem intercorr\u00eancias.",
         "filename": "case_032_qualificacao_sucesso.md"
     },
     {
@@ -260,7 +260,7 @@
         "title": "Caso 033: Oportunidade - Falha",
         "initialState": "oportunidade",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de oportunidade. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de oportunidade. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_033_oportunidade_falha.md"
     },
     {
@@ -268,7 +268,7 @@
         "title": "Caso 034: Designacao - Refatoracao",
         "initialState": "designacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em designacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em designacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_034_designacao_refatoracao.md"
     },
     {
@@ -276,7 +276,7 @@
         "title": "Caso 035: Conclusao - Delayed",
         "initialState": "conclusao",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em conclusao. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em conclusao. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_035_conclusao_delayed.md"
     },
     {
@@ -284,7 +284,7 @@
         "title": "Caso 036: Draft - Sucesso",
         "initialState": "draft",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de draft para lead sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de draft para lead sem intercorr\u00eancias.",
         "filename": "case_036_draft_sucesso.md"
     },
     {
@@ -292,7 +292,7 @@
         "title": "Caso 037: Lead - Falha",
         "initialState": "lead",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de lead. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de lead. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_037_lead_falha.md"
     },
     {
@@ -300,7 +300,7 @@
         "title": "Caso 038: Qualificacao - Refatoracao",
         "initialState": "qualificacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em qualificacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em qualificacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_038_qualificacao_refatoracao.md"
     },
     {
@@ -308,7 +308,7 @@
         "title": "Caso 039: Oportunidade - Delayed",
         "initialState": "oportunidade",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em oportunidade. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em oportunidade. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_039_oportunidade_delayed.md"
     },
     {
@@ -316,7 +316,7 @@
         "title": "Caso 040: Designacao - Sucesso",
         "initialState": "designacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de designacao para conclusao sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de designacao para conclusao sem intercorr\u00eancias.",
         "filename": "case_040_designacao_sucesso.md"
     },
     {
@@ -324,7 +324,7 @@
         "title": "Caso 041: Conclusao - Falha",
         "initialState": "conclusao",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de conclusao. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de conclusao. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_041_conclusao_falha.md"
     },
     {
@@ -332,7 +332,7 @@
         "title": "Caso 042: Draft - Refatoracao",
         "initialState": "draft",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em draft. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em draft. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_042_draft_refatoracao.md"
     },
     {
@@ -340,7 +340,7 @@
         "title": "Caso 043: Lead - Delayed",
         "initialState": "lead",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em lead. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em lead. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_043_lead_delayed.md"
     },
     {
@@ -348,7 +348,7 @@
         "title": "Caso 044: Qualificacao - Sucesso",
         "initialState": "qualificacao",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de qualificacao para oportunidade sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de qualificacao para oportunidade sem intercorr\u00eancias.",
         "filename": "case_044_qualificacao_sucesso.md"
     },
     {
@@ -356,7 +356,7 @@
         "title": "Caso 045: Oportunidade - Falha",
         "initialState": "oportunidade",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de oportunidade. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de oportunidade. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_045_oportunidade_falha.md"
     },
     {
@@ -364,7 +364,7 @@
         "title": "Caso 046: Designacao - Refatoracao",
         "initialState": "designacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em designacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em designacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_046_designacao_refatoracao.md"
     },
     {
@@ -372,7 +372,7 @@
         "title": "Caso 047: Conclusao - Delayed",
         "initialState": "conclusao",
         "scenarioType": "delayed",
-        "description": "Recuperação de um estado Delayed em conclusao. O usuário optou por retornar ao estado anterior para corrigir dados.",
+        "description": "Recupera\u00e7\u00e3o de um estado Delayed em conclusao. O usu\u00e1rio optou por retornar ao estado anterior para corrigir dados.",
         "filename": "case_047_conclusao_delayed.md"
     },
     {
@@ -380,7 +380,7 @@
         "title": "Caso 048: Draft - Sucesso",
         "initialState": "draft",
         "scenarioType": "sucesso",
-        "description": "Transição bem-sucedida de draft para lead sem intercorrências.",
+        "description": "Transi\u00e7\u00e3o bem-sucedida de draft para lead sem intercorr\u00eancias.",
         "filename": "case_048_draft_sucesso.md"
     },
     {
@@ -388,7 +388,7 @@
         "title": "Caso 049: Lead - Falha",
         "initialState": "lead",
         "scenarioType": "falha",
-        "description": "Falha ao tentar avançar a partir de lead. O sistema entrou em estado Delayed para proteção.",
+        "description": "Falha ao tentar avan\u00e7ar a partir de lead. O sistema entrou em estado Delayed para prote\u00e7\u00e3o.",
         "filename": "case_049_lead_falha.md"
     },
     {
@@ -396,7 +396,87 @@
         "title": "Caso 050: Qualificacao - Refatoracao",
         "initialState": "qualificacao",
         "scenarioType": "refatoracao",
-        "description": "Necessidade de revisão identificada em qualificacao. Retornando para ajuste com comentário obrigatório.",
+        "description": "Necessidade de revis\u00e3o identificada em qualificacao. Retornando para ajuste com coment\u00e1rio obrigat\u00f3rio.",
         "filename": "case_050_qualificacao_refatoracao.md"
+    },
+    {
+        "id": "SDW-001",
+        "title": "Caso SDW 001: Aquisi\u00e7\u00e3o de Lead - Sucesso",
+        "initialState": "draft",
+        "scenarioType": "sucesso",
+        "description": "Um novo lead \u00e9 capturado atrav\u00e9s de uma campanha de marketing via Telegram, qualificado automaticamente por um Agente SDR e avan\u00e7a com sucesso.",
+        "filename": "case_sdw_001_lead_sucesso.md"
+    },
+    {
+        "id": "SDW-002",
+        "title": "Caso SDW 002: Oportunidade - Sucesso",
+        "initialState": "qualificacao",
+        "scenarioType": "sucesso",
+        "description": "Um lead qualificado avan\u00e7a para a fase de Oportunidade, onde um Agente de Propostas gera uma proposta comercial personalizada.",
+        "filename": "case_sdw_002_oportunidade_sucesso.md"
+    },
+    {
+        "id": "SDW-003",
+        "title": "Caso SDW 003: Patroc\u00ednio de Evento - Sucesso",
+        "initialState": "oportunidade",
+        "scenarioType": "sucesso",
+        "description": "Uma oportunidade de patroc\u00ednio para o evento SDW Outubro/2026 \u00e9 identificada, negociada e fechada com sucesso.",
+        "filename": "case_sdw_003_patrocinio_sucesso.md"
+    },
+    {
+        "id": "SDW-004",
+        "title": "Caso SDW 004: Parceria de Distribui\u00e7\u00e3o B2B - Sucesso",
+        "initialState": "designacao",
+        "scenarioType": "sucesso",
+        "description": "Uma parceria de distribui\u00e7\u00e3o B2B \u00e9 estabelecida e ativada com sucesso, com o onboarding do parceiro e a integra\u00e7\u00e3o dos sistemas.",
+        "filename": "case_sdw_004_parceria_b2b_sucesso.md"
+    },
+    {
+        "id": "SDW-005",
+        "title": "Caso SDW 005: Gest\u00e3o de M\u00fatuo Convers\u00edvel - Sucesso",
+        "initialState": "conclusao",
+        "scenarioType": "sucesso",
+        "description": "Uma tranche do m\u00fatuo convers\u00edvel \u00e9 liberada, e a SDW NETWORK BRASIL LTDA cumpre os gatilhos e utiliza os recursos conforme o plano.",
+        "filename": "case_sdw_005_mutuo_conversivel_sucesso.md"
+    },
+    {
+        "id": "SDW-001",
+        "title": "Caso SDW 001: Aquisi\u00e7\u00e3o de Lead - Sucesso",
+        "initialState": "draft",
+        "scenarioType": "sucesso",
+        "description": "Um novo lead \u00e9 capturado atrav\u00e9s de uma campanha de marketing via Telegram, qualificado automaticamente por um Agente SDR e avan\u00e7a com sucesso.",
+        "filename": "case_sdw_001_lead_sucesso.md"
+    },
+    {
+        "id": "SDW-002",
+        "title": "Caso SDW 002: Oportunidade - Sucesso",
+        "initialState": "qualificacao",
+        "scenarioType": "sucesso",
+        "description": "Um lead qualificado avan\u00e7a para a fase de Oportunidade, onde um Agente de Propostas gera uma proposta comercial personalizada.",
+        "filename": "case_sdw_002_oportunidade_sucesso.md"
+    },
+    {
+        "id": "SDW-003",
+        "title": "Caso SDW 003: Patroc\u00ednio de Evento - Sucesso",
+        "initialState": "oportunidade",
+        "scenarioType": "sucesso",
+        "description": "Uma oportunidade de patroc\u00ednio para o evento SDW Outubro/2026 \u00e9 identificada, negociada e fechada com sucesso.",
+        "filename": "case_sdw_003_patrocinio_sucesso.md"
+    },
+    {
+        "id": "SDW-004",
+        "title": "Caso SDW 004: Parceria de Distribui\u00e7\u00e3o B2B - Sucesso",
+        "initialState": "designacao",
+        "scenarioType": "sucesso",
+        "description": "Uma parceria de distribui\u00e7\u00e3o B2B \u00e9 estabelecida e ativada com sucesso, com o onboarding do parceiro e a integra\u00e7\u00e3o dos sistemas.",
+        "filename": "case_sdw_004_parceria_b2b_sucesso.md"
+    },
+    {
+        "id": "SDW-005",
+        "title": "Caso SDW 005: Gest\u00e3o de M\u00fatuo Convers\u00edvel - Sucesso",
+        "initialState": "conclusao",
+        "scenarioType": "sucesso",
+        "description": "Uma tranche do m\u00fatuo convers\u00edvel \u00e9 liberada, e a SDW NETWORK BRASIL LTDA cumpre os gatilhos e utiliza os recursos conforme o plano.",
+        "filename": "case_sdw_005_mutuo_conversivel_sucesso.md"
     }
 ]
